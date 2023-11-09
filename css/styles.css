@@ -8,8 +8,8 @@
 
 @font-face {
     font-family: 'MavenPro';
-    src: url('https://joshnewmann.github.io/adelaidehillsurbanism/fonts/MavenPro-Regular.woff2') format('woff2'),
-         url('https://joshnewmann.github.io/adelaidehillsurbanism/fonts/MavenPro-Regular.woff') format('woff');
+    src: url('http://ahu.joshnewman6.com/fonts/MavenPro-Regular.woff2') format('woff2'),
+         url('http://ahu.joshnewman6.com/fonts/MavenPro-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -63,7 +63,7 @@ ul#articleList {
     justify-content: space-between;
     align-items: center;
     height: 50px;
-    background-color: #333;
+    background-color: #06A77D;
     color: #fff;
     padding: 0 20px;
 }
@@ -141,7 +141,7 @@ main {
 }
 
 footer {
-    background-color: #06A77D;
+    background-color: #333;
     color: #fff;
     padding: 10px;
     text-align: center;
