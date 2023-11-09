@@ -8,8 +8,8 @@
 
 @font-face {
     font-family: 'MavenPro';
-    src: url('http://localhost/aif/01/fonts/MavenPro-Regular.woff2') format('woff2'),
-         url('http://localhost/aif/01/fonts/MavenPro-Regular.woff') format('woff');
+    src: url('https://joshnewmann.github.io/adelaidehillsurbanism/fonts/MavenPro-Regular.woff2') format('woff2'),
+         url('https://joshnewmann.github.io/adelaidehillsurbanism/fonts/MavenPro-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

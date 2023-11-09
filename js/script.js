@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 const listItem = document.createElement("li");
                 const anchor = document.createElement("a");
                 anchor.textContent = `${title} by ${author}`;
-                anchor.href = `http://localhost/aif/01/read?article=${articleNumber}`;
+                anchor.href = `https://joshnewmann.github.io/adelaidehillsurbanism/read?article=${articleNumber}`;
                 listItem.appendChild(anchor);
                 articlesList.appendChild(listItem);
                 articleNumber++;

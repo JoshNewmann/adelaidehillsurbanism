@@ -6,7 +6,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
     if (articleNumber) {
         // Load the corresponding article file
-        const articleFileName = `articles/article${articleNumber}.txt`;
+        const articleFileName = `../articles/article${articleNumber}.txt`;
 
         fetch(articleFileName)
             .then(response => response.text())
