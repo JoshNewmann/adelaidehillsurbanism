@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Array of image sources
     var imageSources = [
-        'http://localhost/aif/01/images/image1.png',
-        'http://localhost/aif/01/images/image2.png',
-        'http://localhost/aif/01/images/image3.png'
+        '../images/image1.png',
+        '../images/image2.png',
+        '../images/image3.png'
     ];
 
     // Get the header element
